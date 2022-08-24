@@ -1,59 +1,20 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Donna Browne">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11755</md:content-id>
-  <md:title>Introduction to Anatomy</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>ca77df63-d40f-4b9d-948d-fa3f87694b31</md:uuid>
-<md:slug>introduction-to-anatomy</md:slug>
-</metadata>
-
+    <md:content-id>col11755</md:content-id>
+    <md:title>Introduction to Anatomy</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>ca77df63-d40f-4b9d-948d-fa3f87694b31</md:uuid>
+    <md:slug>introduction-to-anatomy</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m47527"/>
-        
-      
-    
-    
-      <col:module document="m47526"/>
-        
-      
-    
-    
-      <col:module document="m47558"/>
-        
-      
-    
-    
-      <col:module document="m47559"/>
-        
-      
-    
-    
-      <col:module document="m47528"/>
-        
-      
-    
-    
-      <col:module document="m47556"/>
-        
-      
-    
-    
-      <col:module document="m48978"/>
-        
-      
-    
+    <col:module document="m47527"/>
+    <col:module document="m47526"/>
+    <col:module document="m47558"/>
+    <col:module document="m47559"/>
+    <col:module document="m47528"/>
+    <col:module document="m47556"/>
+    <col:module document="m48978"/>
   </col:content>
 </col:collection>
